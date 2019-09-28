@@ -23,3 +23,8 @@ DOMContentLoaded Event - 4003.6 ms
 
 ### Тайминг этапов обработки документа:
 ![Summary](https://raw.githubusercontent.com/shishkinilya/shri2019-hw-4/master/images/performance/summary.png)
+
+CSS Total kilobytes - 251KB,  
+CSS Unused kilobytes - 228KB,  
+JS Total kilobytes - 3390KB,  
+JS Unused kilobytes - 2334KB
