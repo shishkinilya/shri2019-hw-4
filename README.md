@@ -15,11 +15,11 @@
 
 ## Вкладка Performance
 
-First Paint - 2409.0 ms
-First Contentful Paint - 2409.0 ms
-First Meaningful Paint - 3509.6 ms
-DOMContentLoaded Event - 4003.6 ms
+### Тайминг событий:
+First Paint - 2409.0 ms  
+First Contentful Paint - 2409.0 ms  
+First Meaningful Paint - 3509.6 ms  
+DOMContentLoaded Event - 4003.6 ms  
 
-Тайминг этапов обработки документа:
-
+### Тайминг этапов обработки документа:
 ![Summary](https://raw.githubusercontent.com/shishkinilya/shri2019-hw-4/master/images/performance/summary.png)
